@@ -147,7 +147,7 @@ text-align: center;
 }
 
 #footer {
-   position:fixed;
+   position:static;
    left:0px;
    bottom:0px;
    height:155px;
@@ -166,3 +166,5 @@ text-align: center;
 .nomemeu{
     margin-top: 60px;
 }
+
+
